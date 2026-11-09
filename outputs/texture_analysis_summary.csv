@@ -1,0 +1,5 @@
+﻿image_name,file,resolution,total_blocks,smooth_blocks,smooth_ratio_pct,normal_blocks,normal_ratio_pct,complex_blocks,complex_ratio_pct,mean_score
+Cameraman (平滑主导),cameraman_512.png,512x512,4096,2204,53.81,1040,25.39,852,20.8,9.04
+Astronaut (均衡自然),astronaut_512.png,512x512,4096,1939,47.34,1086,26.51,1071,26.15,11.3
+MoonCoins (含边界极值),moon_coins_512.png,512x512,4096,3324,81.15,356,8.69,416,10.16,5.14
+TextureMix (复杂纹理对比),texture_mix_512.png,512x512,4096,1592,38.87,262,6.4,2242,54.74,15.95
