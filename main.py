@@ -46,7 +46,7 @@ def run_demo() -> None:
 
     # 准备秘密文本
     secret_msg = (
-        "【数据安全课程验收测试】基于局部纹理分级与预测误差扩展(PEE)的自适应可逆图像信息隐藏系统。"
+        "flag{Reversible_Data_Hiding_2026_RDH_100%_LOSSLESS!}"
         "VerifyCode=2026-RDH-100%-LOSSLESS!"
     )
     payload_bits = text_to_bits(secret_msg * 20)  # 约 2.6 KB 秘密文本
